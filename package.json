@@ -1,0 +1,40 @@
+{
+  "name": "sit725-2024-t1-prac8",
+  "version": "1.0.0",
+  "description": "Test script added",
+  "main": "server.js",
+  "type": "commonJS",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha --require @babel/register --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shreya-bista/sit725-2024-t1-prac8.git"
+  },
+  "author": "Shreya Bista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreya-bista/sit725-2024-t1-prac8/issues"
+  },
+  "homepage": "https://github.com/shreya-bista/sit725-2024-t1-prac8#readme",
+  "dependencies": {
+    "@babel/register": "^7.23.7",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "mongodb": "^4.17.2",
+    "monodb": "^1.5.1",
+    "package.json": "^2.0.1",
+    "request": "^2.88.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.4.0",
+    "esm": "^3.2.25",
+    "mocha": "^10.4.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

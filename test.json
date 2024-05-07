@@ -1,0 +1,15 @@
+[{
+    "_id": "new_unique_identifier",
+    "path": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+    "title": "Java Programming Language",
+    "subTitle": "Learn about Java programming language",
+    "description": "Java is a widely-used programming language known for its platform independence, object-oriented approach, and robustness. It is extensively used in web development, enterprise applications, mobile app development, and more."
+  },
+  {
+    "_id": "unique_identifier_for_python",
+    "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+    "title": "Python Programming Language",
+    "subTitle": "Learn about Python programming language",
+    "description": "Python is a high-level programming language known for its simplicity and readability. It supports multiple programming paradigms and is widely used in web development, data science, artificial intelligence, and more."
+  }]
+  

@@ -1,0 +1,43 @@
+
+.nav-wrapper, nav {
+    background-color: #1c4d29; 
+}
+
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.icon-image-size {
+    height: 54px;
+    margin: 6px 0;
+    border: 2px solid white; 
+    border-radius: 60%; 
+}
+
+.main-body {
+    background-color: #9dc3a8;
+    color: rgb(255, 255, 255);
+    height: calc(100vh - 64px);
+}
+
+.materialboxed-image {
+    margin: 0 auto;
+    height: 400px;
+}
+
+.click-me-button {
+    background-color: #1c4d29; 
+    margin-top: 66px;
+}
+
+.clickme-button-color {
+    background-color: #1c4d29; 
+}
+
+.helper-text {
+    color: red; 
+}
+#card-section {
+    color: black;
+}
